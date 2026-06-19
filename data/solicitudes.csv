@@ -1,0 +1,4 @@
+id_solicitud,legajo,fecha_solicitud,fecha_desde,fecha_hasta,cantidad_dias,estado,motivo_rechazo
+S0001,1004,2026-02-10,2026-03-02,2026-03-06,5,APROBADA,
+S0002,1003,2026-04-05,2026-05-10,2026-05-12,3,RECHAZADA,Sin saldo de dias disponibles
+S0003,1002,2026-05-20,2026-07-14,2026-07-18,5,PENDIENTE,

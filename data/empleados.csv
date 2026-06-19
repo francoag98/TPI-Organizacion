@@ -1,0 +1,10 @@
+legajo,nombre,apellido,area,dias_disponibles,antiguedad_anios,supervisor
+1001,Franco,Aglieri,Desarrollo,14,3,2001
+1002,Maria,Gomez,Desarrollo,7,5,2001
+1003,Lucas,Perez,Soporte,0,1,2002
+1004,Sofia,Martinez,RRHH,21,8,2002
+1005,Diego,Lopez,Finanzas,10,2,2003
+1006,Valentina,Ruiz,Desarrollo,3,1,2001
+2001,Pablo,Fernandez,Desarrollo,18,12,9999
+2002,Ana,Suarez,Soporte,15,10,9999
+2003,Jorge,Castro,Finanzas,12,9,9999
