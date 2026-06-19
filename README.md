@@ -2,6 +2,8 @@
 
 Trabajo Práctico Integrador — UTN TUPaD — Cátedra Organización Empresarial.
 
+**Repositorio:** https://github.com/francoag98/TPI-Organizacion
+
 Simulación de un chatbot administrativo que automatiza el proceso de
 **solicitud de vacaciones**. La lógica responde a un modelo **BPMN 2.0**
 con carriles (Usuario / Sistema / Supervisor) y tres compuertas
